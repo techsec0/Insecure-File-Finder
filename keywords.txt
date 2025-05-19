@@ -1,0 +1,7 @@
+password
+api_key
+token
+jwt
+secret
+PRIVATE KEY
+auth

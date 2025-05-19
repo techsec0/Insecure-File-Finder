@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore the output JSON files
+*.json
+
+# Ignore the optional keywords file
+keywords.txt
+
+# Ignore environment variable files or config files with sensitive data
+*.env
+
+# Ignore other sensitive files like secrets.txt, passwords.txt, etc.
+secrets.txt
+passwords.txt
+config.json
